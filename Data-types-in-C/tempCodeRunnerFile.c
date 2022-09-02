@@ -1,0 +1,1 @@
+ printf("Integer Is = %d\n", price);
